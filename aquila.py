@@ -6,7 +6,14 @@ st.header('Présentation du Projet')
 st.write("""
 Le projet Aquila Altus vise à révolutionner l'utilisation des drones dans divers domaines, en offrant une plateforme aérienne innovante et polyvalente. 
 Ce système est conçu pour la cartographie de zones complexes, la surveillance de chantiers, la production audiovisuelle, et la protection de la biodiversité. 
-Il se distingue par sa facilité d'utilisation, sa capacité à tester des capteurs, et son potentiel éducatif.
+Il se distingue par sa facilité d'utilisation, sa capacité à tester des capteurs, et son potentiel éducatif.a est l'accélération (en mètres par seconde carré, 
+m
+/
+s
+2
+m/s 
+2
+ ),
 """)
 
 st.header('Caractéristiques Techniques')
